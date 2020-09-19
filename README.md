@@ -1,5 +1,5 @@
 # PathTracer_Course
-Repository containing project from course on advanced image synthesis extendering the rendering technique of ray tracing to unbiased monte carlo based path tracer.
+Repository containing project from course on advanced image synthesis extending the rendering technique of ray tracing to unbiased monte carlo based path tracer.
 
 *Extension of the ray tracer from - https://github.com/codesavory/RayTracer_Course/
 
